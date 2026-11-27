@@ -5,6 +5,7 @@ A versão mais nova fica no topo; as anteriores continuam disponíveis.
 
 | Arquivo | PLC | Versão | Formato do programa | Data | SHA-256 |
 |---|---|---|---|---|---|
+| [PLC_F407_v1.0.5_2026-11-27.bin](F407/PLC_F407_v1.0.5_2026-11-27.bin) | ECU-MAX (F407) | 1.0.5 | 1 | 27/11/2026 | `76a1ce55c922cf3b` |
 | [PLC_F407_v1.0.4_2026-11-27.bin](F407/PLC_F407_v1.0.4_2026-11-27.bin) | ECU-MAX (F407) | 1.0.4 | 1 | 27/11/2026 | `a6495a0cbb2d775f` |
 | [PLC_F407_v1.0.3_2026-11-26.bin](F407/PLC_F407_v1.0.3_2026-11-26.bin) | ECU-MAX (F407) | 1.0.3 | 1 | 26/11/2026 | `5bdc1a36aba11d25` |
 | [PLC_F407_v1.0.2_2026-11-26.bin](F407/PLC_F407_v1.0.2_2026-11-26.bin) | ECU-MAX (F407) | 1.0.2 | 1 | 26/11/2026 | `2c6bc31f81020bff` |
